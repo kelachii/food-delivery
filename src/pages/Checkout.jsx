@@ -46,7 +46,7 @@ const Checkout = () => {
           <Row>
             <Col lg="8" md="6">
               <h6 className="mb-4">Shipping Address</h6>
-              <form className="checkout__form" onSubmit={handleSubmit}>
+              <form className="checkout__form" onSubmit={handleSubmit} netlify>
                 <div className="form__group">
                   <input
                     type="text"
