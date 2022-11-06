@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "01",
+      "fullName": "Elewa Kelachi Victor",
+      "email": "kelachivictor@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "fullName": "Abbas",
+      "email": "kelachi@gmail.com",
+      "password": "12345678",
+      "id": "8UGAWCv"
+    },
+    {
+      "fullName": "Abbas",
+      "email": "kelachi@gmail.com",
+      "password": "12345678",
+      "id": "xn-twaJ"
+    },
+    {
+      "fullName": "Abbas",
+      "email": "kelachi@gmail.com",
+      "password": "12345678",
+      "id": "o1hqx_h"
+    },
+    {
+      "fullName": "abbbbas",
+      "email": "me@gmail.com",
+      "password": "123456",
+      "id": "R2tF7WW"
+    }
+  ],
+  "delivery": [
+    {
+      "id": "01",
+      "name": "kelachi victor",
+      "email": "kelachi@gmail.com",
+      "number": "09016194273",
+      "city": "Port Harcourt",
+      "Address": "Port Harcourt"
+    },
+    {
+      "name": "gdf",
+      "email": "dfdfgdfgf@gmail.com",
+      "number": "5412165",
+      "city": "pbh",
+      "address": "nbkjkjmk",
+      "id": "OqJu1kJ"
+    }
+  ]
+}
